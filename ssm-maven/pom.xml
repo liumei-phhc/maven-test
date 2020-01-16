@@ -6,7 +6,7 @@
 
     <groupId>org.dy</groupId>
     <artifactId>Maven-ssm</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <name>Maven-ssm Maven Webapp</name>
